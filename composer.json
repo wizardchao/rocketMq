@@ -1,6 +1,8 @@
 {
     "name": "wizardchao/rocketmq",
-    "type": "composer-plugin",
+    "type": "library",
+    "license": "MIT",
+     "minimum-stability":"stable",
     "authors": [
         {
             "name": "wizardchao",
