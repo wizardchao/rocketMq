@@ -12,7 +12,8 @@
     },
     "autoload": {  
     "psr-4": {
-      "wizardchao\\rocketmq\\": "src/wizardchao/rocketmq"
+      "wizardchao\\rocketmq\\": "src/wizardchao/rocketmq"，
+      "wizardchao\\logger\\": "src/wizardchao/logger"
     }
   }
 }
