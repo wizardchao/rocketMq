@@ -1,0 +1,18 @@
+{
+    "name": "wizardchao/rocketmq",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "wizardchao",
+            "email": "18317119662@139.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0"
+    },
+    "autoload": {  
+    "psr-4": {
+      "wizardchao\\rocketmq\\": "src/wizardchao/rocketmq"
+    }
+  }
+}
